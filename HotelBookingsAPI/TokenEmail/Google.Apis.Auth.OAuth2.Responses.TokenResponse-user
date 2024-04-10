@@ -1,0 +1,9 @@
+{
+  "access_token": "",
+  "token_type": "Bearer",
+  "expires_in": 3599,
+  "refresh_token": "",
+  "scope": "https://www.googleapis.com/auth/gmail.send",
+  "Issued": "2024-04-10T23:09:46.518-03:00",
+  "IssuedUtc": "2024-04-11T02:09:46.518Z"
+}
