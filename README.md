@@ -1,6 +1,6 @@
 ## HotelBookings API 🌐
 
-## ⚙️ Status: Aguardando Melhorias.
+## ⚙️ Status: Aguardando Melhorias, Front End. usando Blazor.
 
 #### Este projeto é uma API web que implementa um sistema de gerenciamento de um Hotel.
 #### A API permite que a Hotel tenha controle total de: Quartos, Reservas, Clientes, Pagamentos, Serviço Adicional.
