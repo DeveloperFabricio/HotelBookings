@@ -13,7 +13,7 @@
 #### Clientes: reservam o quarto que quiserem, desde que estejam disponiveis, escolhem serviços adicionais se preferirem, os quartos são disponibilizados de acordo com o número de hóspedes, e só é confirmada a reserva após a confirmação do pagamento, e o cliente pode adicionar a data da viagem ao Google Calendário e faz a avaliação do Hotel.
 
 
-### Funcionalidades 🖥️  ☑ (Concluído)
+### Funcionalidades 🖥️  ☑ (Concluído) ⌛ Aguardando Melhorias
 
 
 - ☑ CRUD Hotel
@@ -37,7 +37,7 @@
 - Mensageria com RabbitMQ.
 - API Gmail
 - API Google Calendar
-  
+- ⌛ Front End. usando Blazor.  
 
 ### Padrões, conceitos e arquitetura utilizada 📂
 
